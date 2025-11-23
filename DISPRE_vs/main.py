@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
 DISPRE Main Application
-Run this file to execute the disaster prediction system
+Should run this file to execute the disaster prediction system
 """
 
 import sys
@@ -158,3 +158,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
